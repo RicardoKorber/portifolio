@@ -1,2 +1,2 @@
 # portifolio
-Here's where I'm sharing codes to show case skills.
+Here's where I'm sharing codes to showcase skills.
